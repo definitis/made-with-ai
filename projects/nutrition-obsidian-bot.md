@@ -1,6 +1,6 @@
 # Nutrition Obsidian Bot
 
-**Repository:** https://github.com/definitis/nutrition-obsidian-bot
+**Status:** private personal project
 
 A Telegram nutrition assistant that uses a small local LLM only for language understanding while keeping nutrition calculations deterministic and testable.
 
