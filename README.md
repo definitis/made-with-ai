@@ -4,6 +4,8 @@ Selected AI-native software projects built with **Codex, ChatGPT and Gemini**.
 
 I use AI as an engineering collaborator rather than a code generator: I define the problem, split work into bounded tasks, provide context and constraints, review diffs, run tests, debug failures, and integrate the final result.
 
+**Portfolio website:** [definitis.ru](https://definitis.ru)
+
 Some of the strongest projects below are commercial or client work, so their source code remains private. For those projects this repository contains sanitized case studies instead.
 
 ## Selected work
