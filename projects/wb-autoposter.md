@@ -1,6 +1,6 @@
 # WB Autoposter
 
-**Status:** project source currently private
+**Status:** public source — https://github.com/definitis/wb-pinterest-autoposter
 
 An end-to-end automation pipeline for publishing new Wildberries products to social platforms and collecting the resulting publication state and metrics.
 
@@ -35,3 +35,7 @@ Wildberries seller page
 AI was used for implementation, integration debugging, test generation, failure analysis and refactoring. The project also uses Gemini at runtime, but the more important part for this portfolio is how AI was used to build and verify the surrounding system.
 
 The design deliberately avoids making the LLM a single point of failure: publishing can continue with fallback text instead of collapsing the entire pipeline on a model error.
+
+## Source
+
+[github.com/definitis/wb-pinterest-autoposter](https://github.com/definitis/wb-pinterest-autoposter)
